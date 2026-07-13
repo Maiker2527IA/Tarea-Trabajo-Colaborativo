@@ -12,7 +12,7 @@ Este repositorio fue creado para desarrollar la práctica sobre trabajo colabora
 5. Se creó un Pull Request.
 6. Se realizó el Merge hacia la rama principal.
 ## Conflicto y resolución
-Durante la integración de las ramas se consideró el caso en el que dos integrantes modifican la misma parte de un archivo. Este tipo de situación genera un conflicto de fusión (merge conflict). Para resolverlo, se revisaron los cambios, se conservaron las modificaciones correctas y posteriormente se completó la fusión hacia la rama principal.
+Durante la integración de las ramas se consideró el caso en el que dos integrantes modifican la misma parte de un archivo. Este tipo de situación genera un conflicto de fusión. Para resolverlo, se revisaron los cambios, se conservaron las modificaciones correctas y posteriormente se completó la fusión hacia la rama principal.
 Este procedimiento permitió mantener una versión final organizada del proyecto.
 ## Conclusión
 Git facilita el trabajo colaborativo porque permite que varias personas trabajen en un mismo proyecto sin perder los cambios realizados. Además, mantiene un historial de versiones y ayuda a organizar el desarrollo del proyecto.
